@@ -1,5 +1,5 @@
 This app creates posts with title, name of author and content. For creating the web site I used React.js,HTML and CSS.
-I used Redux Toolkit for managing the state and for debugging application's state changes i used Redux DevTools.
+I used Redux Toolkit for managing the state and for debugging application's state changes I used Redux DevTools.
 
 How to start this app:
 
