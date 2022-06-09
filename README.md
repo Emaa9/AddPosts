@@ -3,7 +3,7 @@ I used Redux Toolkit for managing the state and for debugging application's stat
 
 How to start this app:
 
-Step1. You should install node_modules with this command npm i
+Step1. You should install node_modules with this command: npm i
 
-Step2. To start this app you should use npm start
+Step2. To start this app you should use: npm start
 
